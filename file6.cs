@@ -5,3 +5,4 @@ file2.txt
 file3.cs
 file6.cs
 readme.txt
+test
